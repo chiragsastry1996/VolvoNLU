@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/46568913/tensorflow-import-error-no-module-named-tensorflow
+https://www.pyimagesearch.com/2018/12/10/keras-save-and-load-your-deep-learning-models/
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+https://machinelearningmastery.com/deep-learning-for-nlp/
+https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456

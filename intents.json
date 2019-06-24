@@ -1,0 +1,32 @@
+{"intents": [
+        {"tag": "Distance",
+         "patterns": ["Check distance to empty", "check distance", "how far can we go before refilling?", "how much fuel is left?", "what distance can we go?", "how long travel?", "how far", "far", "farther", "distance remaining", "distance to go", "distance"],
+         "responses": ["You have quite some distance to go", "Not too much distance remaining", "You're almost there"],
+         "context_set": ""
+        },
+        {"tag": "LeftIndicator",
+         "patterns": ["left indicator on", "light left indicator", "left", "left side", "assist left", "turn left on", "go left", "indicator broken", "indicator", "indicators"],
+         "responses": ["Left indicator turned on", "Left indicator works", "Left indicator turning on"]
+        },
+        {"tag": "RightIndicator",
+         "patterns": ["right indicator on", "light right indicator", "right", "right side", "assist right", "turn right on", "go right", "indicator broken", "indicator", "indicators"],
+         "responses": ["right indicator turned on", "right indicator works", "right indicator turning on"]
+        },
+        {"tag": "Restaurant",
+         "patterns": ["restaurants near me", "food", "hungry", "famished", "drink", "thirsty", "starving", "eat", "places to eat" ],
+         "responses": ["restaurant near you", "restaurant a bit farther from here"]
+        },
+        {"tag": "FuelStation",
+         "patterns": ["petrol", "fuel", "gas", "gas pump", "petrol bunk", "diesel", "gas station", "station", "fill gas", "fill fuel", "tank fill", "gas tank" ],
+         "responses": ["there's a fuel station nearby", "there's a fuel station 12 kms away"]
+        },
+        {"tag": "Thanking",
+         "patterns": ["thanks", "thank you", "thank you so much", "thanks a ton", "thanks a lot for the help" ],
+         "responses": ["You're welcome!", "Sure, you're welcome"]
+        },
+        {"tag": "Greetings",
+         "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good day", "Good afternoon", "Good evening", "how are you"],
+         "responses": ["Greetings!", "Hello there!"]
+        } 
+   ]
+}

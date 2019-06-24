@@ -1,0 +1,62 @@
+content,label,labelvalue
+Check distance to empty,0,Distance
+check distance,0,Distance
+how far can we go before refilling,0,Distance
+how much fuel is left,0,Distance
+what distance can we go,0,Distance
+how long travel,0,Distance
+how far,0,Distance
+farther,0,Distance
+far,0,Distance
+distance remaining,0,Distance
+left indicator on,1,LeftIndicator
+light left indicator,1,LeftIndicator
+left,1,LeftIndicator
+left side,1,LeftIndicator
+turn left on,1,LeftIndicator
+go left,1,LeftIndicator
+assist left,1,LeftIndicator
+indicator broken,1,LeftIndicator
+indicators,1,LeftIndicator
+indicator,1,LeftIndicator
+right indicator on,2,RightIndicator
+light right indicator,2,RightIndicator
+right,2,RightIndicator
+right side,2,RightIndicator
+turn right on,2,RightIndicator
+go right,2,RightIndicator
+assist right,2,RightIndicator
+indicator broken,2,RightIndicator
+indicators,2,RightIndicator
+indicator,2,RightIndicator
+restaurants near me,3,Restaurant
+i am hungry,3,Restaurant
+any restaurants,3,Restaurant
+places to eat,3,Restaurant
+feeling hungry,3,Restaurant
+search restaurant,3,Restaurant
+get nearby restaurants,3,Restaurant
+food,3,Restaurant
+starving,3,Restaurant
+drink,3,Restaurant
+thirsty,3,Restaurant
+petrol pump,4,FuelStation
+fuel station nearby,4,FuelStation
+fuel pump nearby,4,FuelStation
+lets get the tank filled,4,FuelStation
+gas station,4,FuelStation
+search fuel station,4,FuelStation
+very less fuel left,4,FuelStation
+fill,4,FuelStation
+gas,4,FuelStation
+out of gas,4,FuelStation
+outta gas,4,FuelStation
+thank you,5,ThankYou
+thanks,5,ThankYou
+thanks for your help,5,ThankYou
+Hey buddy,6,Greetings
+hello,6,Greetings
+hi,6,Greetings
+hey hey,6,Greetings
+hey! whats up,6,Greetings
+how do you do,6,Greetings
